@@ -1,6 +1,6 @@
 {
   "name": "@quantovainc/qvisa",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quantum secure visa records for consular authorities and border control. Proves the grant, extension, entry, exit and revocation of a visa, with ML-DSA-65 under FIPS 204 and Quantova time proofs. No personal data ever leaves the party that holds it.",
   "main": "index.js",
   "types": "index.d.ts",
